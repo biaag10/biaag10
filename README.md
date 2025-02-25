@@ -28,10 +28,10 @@
   </a>
   <!-- Outlook -->
   <a href="mailto:biancandradegalvao@outlook.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Outlook-003366?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/bianca-andrade-galvao" target="_blank">
+  <a href="https://www.linkedin.com/in/bianca-andrade-galv%C3%A3o/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <!-- WhatsApp -->
@@ -39,4 +39,3 @@
     <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%2384D16D?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
 </div>
-
