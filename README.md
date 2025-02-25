@@ -19,7 +19,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/>
 </div>
 
-## Contacts:
+## Contacts
 
 <div>
   <!-- Instagram -->
@@ -36,6 +36,6 @@
   </a> 
   <!-- WhatsApp -->
   <a href="https://wa.me/71996898570" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%2384D16D?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%23128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
 </div>
